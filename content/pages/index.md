@@ -15,10 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       I am a highly talented and driven student looking for job opportunities
-      that can propel my career forward. With a strong academic background and a
-      passion for excellence, I bring enthusiasm, creativity, and dedication to
-      every task. My goal is to contribute meaningfully to an organization while
-      gaining valuable experience that will shape my professional journey.
+      that can propel my career forward.
     subtitle: >-
       This is my info—I’m sharing it all this with ya’ll to impress you with all
       the hard work I’ve done in the past few years. Once you’re impressed, you
