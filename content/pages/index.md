@@ -17,8 +17,10 @@ sections:
       I am a highly talented and driven student looking for job opportunities
       that can propel my career forward. 
     subtitle: >-
-      I am a highly talented and driven student looking for job opportunities
-      that can propel my career forward.
+      With a strong academic background and a passion for excellence, I bring
+      enthusiasm, creativity, and dedication to every task. My goal is to
+      contribute meaningfully to an organization while gaining valuable
+      experience that will shape my professional journey.
     styles:
       self:
         height: auto
