@@ -22,7 +22,7 @@ sections:
       can continue to scroll down to see more details and credentials about me.
     styles:
       self:
-        height: auto
+        height: screen
         width: wide
         margin:
           - mt-0
@@ -84,7 +84,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    subtitle: 'Projects'
+    subtitle: Projects
   - type: FeaturedPostsSection
     elementId: ''
     colors: colors-f
