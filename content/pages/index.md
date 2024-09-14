@@ -15,7 +15,7 @@ sections:
     backgroundSize: full
     title: >-
       I am a highly talented and driven student looking for job opportunities
-      that can propel my career forward.
+      that can propel my career forward. 
     subtitle: >-
       I am a highly talented and driven student looking for job opportunities
       that can propel my career forward.
